@@ -1,1 +1,11 @@
 2025-01-20 05:17:09,764 -root-INFO- Welcome to my custom log
+2025-01-20 19:40:15,402 -root-INFO- Entered the start_data_ingestion method of TrainPipeline class
+2025-01-20 19:40:15,402 -root-INFO- Getting the data from URL
+2025-01-20 19:40:15,402 -root-INFO- Entered initiate_data_ingestion method of Data_Ingestion class
+2025-01-20 19:40:15,403 -root-INFO- Downloading data from https://drive.google.com/file/d/1Y7rA7JspKccycs5cv1avoSes4xCFuoWz/view?usp=drive_link into file artifacts\data_ingestion\data.zip
+2025-01-20 19:40:20,709 -root-INFO- Downloaded data from https://drive.google.com/file/d/1Y7rA7JspKccycs5cv1avoSes4xCFuoWz/view?usp=drive_link into file artifacts\data_ingestion\data.zip
+2025-01-20 19:40:20,802 -root-INFO- Extracting zip file: artifacts\data_ingestion\data.zip into dir: artifacts\data_ingestion\features_store
+2025-01-20 19:40:20,802 -root-INFO- Exited initiate_data_ingestion method of Data_Ingestion class
+2025-01-20 19:40:20,802 -root-INFO- Data ingestion artifact: DataIngestionArtifact(data_zip_file_path='artifacts\\data_ingestion\\data.zip', feature_store_path='artifacts\\data_ingestion\\features_store')
+2025-01-20 19:40:20,802 -root-INFO- Got the data from URL
+2025-01-20 19:40:20,802 -root-INFO- Exited the start_data_ingestion method of TrainPipeline class
