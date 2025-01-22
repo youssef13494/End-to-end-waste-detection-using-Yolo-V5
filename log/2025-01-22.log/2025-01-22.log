@@ -1,0 +1,32 @@
+2025-01-22 18:00:26,270 -root-INFO- Entered the start_data_ingestion method of TrainPipeline class
+2025-01-22 18:00:26,270 -root-INFO- Getting the data from URL
+2025-01-22 18:00:26,270 -root-INFO- Entered initiate_data_ingestion method of Data_Ingestion class
+2025-01-22 18:00:26,270 -root-INFO- Downloading data from https://drive.google.com/file/d/1Y7rA7JspKccycs5cv1avoSes4xCFuoWz/view?usp=drive_link into file artifacts\data_ingestion\data.zip
+2025-01-22 18:00:31,458 -root-INFO- Downloaded data from https://drive.google.com/file/d/1Y7rA7JspKccycs5cv1avoSes4xCFuoWz/view?usp=drive_link into file artifacts\data_ingestion\data.zip
+2025-01-22 18:00:31,480 -root-INFO- Extracting zip file: artifacts\data_ingestion\data.zip into dir: artifacts\data_ingestion\features_store
+2025-01-22 18:00:31,480 -root-INFO- Exited initiate_data_ingestion method of Data_Ingestion class
+2025-01-22 18:00:31,480 -root-INFO- Data ingestion artifact: DataIngestionArtifact(data_zip_file_path='artifacts\\data_ingestion\\data.zip', feature_store_path='artifacts\\data_ingestion\\features_store')
+2025-01-22 18:00:31,480 -root-INFO- Got the data from URL
+2025-01-22 18:00:31,480 -root-INFO- Exited the start_data_ingestion method of TrainPipeline class
+2025-01-22 18:00:31,480 -root-INFO- Entered the start_data_validation method of TrainPipeline class
+2025-01-22 18:00:31,480 -root-INFO- Entered initiate_data_validation method of DataValidation class
+2025-01-22 18:00:31,480 -root-INFO- Exited initiate_data_validation method of DataValidation class
+2025-01-22 18:00:31,480 -root-INFO- Data validation artifact: DataValidationArtifact(validation_status=True)
+2025-01-22 18:00:31,480 -root-INFO- Performed the data validation operation
+2025-01-22 18:00:31,480 -root-INFO- Exited the start_data_validation method of TrainPipeline class
+2025-01-22 18:03:07,355 -root-INFO- Entered the start_data_ingestion method of TrainPipeline class
+2025-01-22 18:03:07,355 -root-INFO- Getting the data from URL
+2025-01-22 18:03:07,355 -root-INFO- Entered initiate_data_ingestion method of Data_Ingestion class
+2025-01-22 18:03:07,355 -root-INFO- Downloading data from https://drive.google.com/file/d/1Y7rA7JspKccycs5cv1avoSes4xCFuoWz/view?usp=drive_link into file artifacts\data_ingestion\data.zip
+2025-01-22 18:03:12,965 -root-INFO- Downloaded data from https://drive.google.com/file/d/1Y7rA7JspKccycs5cv1avoSes4xCFuoWz/view?usp=drive_link into file artifacts\data_ingestion\data.zip
+2025-01-22 18:03:12,984 -root-INFO- Extracting zip file: artifacts\data_ingestion\data.zip into dir: artifacts\data_ingestion\features_store
+2025-01-22 18:03:12,984 -root-INFO- Exited initiate_data_ingestion method of Data_Ingestion class
+2025-01-22 18:03:12,984 -root-INFO- Data ingestion artifact: DataIngestionArtifact(data_zip_file_path='artifacts\\data_ingestion\\data.zip', feature_store_path='artifacts\\data_ingestion\\features_store')
+2025-01-22 18:03:12,984 -root-INFO- Got the data from URL
+2025-01-22 18:03:12,984 -root-INFO- Exited the start_data_ingestion method of TrainPipeline class
+2025-01-22 18:03:12,984 -root-INFO- Entered the start_data_validation method of TrainPipeline class
+2025-01-22 18:03:12,984 -root-INFO- Entered initiate_data_validation method of DataValidation class
+2025-01-22 18:03:12,984 -root-INFO- Exited initiate_data_validation method of DataValidation class
+2025-01-22 18:03:12,984 -root-INFO- Data validation artifact: DataValidationArtifact(validation_status=True)
+2025-01-22 18:03:12,984 -root-INFO- Performed the data validation operation
+2025-01-22 18:03:12,984 -root-INFO- Exited the start_data_validation method of TrainPipeline class
